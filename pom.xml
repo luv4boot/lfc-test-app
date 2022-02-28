@@ -10,7 +10,7 @@
         <version>2.6.3</version>
     </parent>
 
-    <groupId>com.luv4code</groupId>
+    <groupId>io.github.luv4code</groupId>
     <artifactId>lfc-test-app</artifactId>
     <version>1.0-SNAPSHOT</version>
 
